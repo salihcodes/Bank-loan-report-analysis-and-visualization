@@ -32,7 +32,7 @@ This project analyzes a bank loan dataset to understand key financial metrics, b
 - Combining Finance-1 and Finance-2 datasets enabled deeper cross-field insights, helping identify relationships between credit factors that wouldn’t be visible in a single dataset.
 
 ## Final conclusion
-- 1. The analysis confirms that loan performance is influenced by borrower grade, verification status, and geographic location, requiring targeted lending strategies.
+- The analysis confirms that loan performance is influenced by borrower grade, verification status, and geographic location, requiring targeted lending strategies.
 - Verified borrowers generally show better repayment discipline, proving the importance of income and identity verification in reducing loan default risk.
 - State-wise differences in loan and credit activity indicate that regional financial behavior affects overall loan performance, supporting location-based risk assessment.
 - Year-wise loan trends show steady growth in lending, indicating higher credit demand and increased participation from borrowers over time.
