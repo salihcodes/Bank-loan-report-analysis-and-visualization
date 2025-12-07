@@ -7,12 +7,21 @@ This project analyzes a bank loan dataset to understand key financial metrics, b
 - <a href="https://github.com/salihcodes/Bank-loan-report-analysis-and-visualization/blob/main/Finance_2.xlsx">Dataset2</a>
 
 ## Questions (KPIs)
--KPI-1 : Year wise loan amount Stats
--KPI-2 : Grade and sub grade wise revol_bal
--KPI-3 : Total Payment for Verified Status Vs Total Payment for Non Verified Status
--KPI-4 : State wise and last_credit_pull_d wise loan status
+- KPI-1 : Year wise loan amount Stats
+- KPI-2 : Grade and sub grade wise revol_bal
+- KPI-3 : Total Payment for Verified Status Vs Total Payment for Non Verified Status
+- KPI-4 : State wise and last_credit_pull_d wise loan status
 
--Dashboard Interactions <a href="
+-Dashboard Interactions <a href="https://github.com/salihcodes/Bank-loan-report-analysis-and-visualization/blob/main/bank_rep_st.png">View Dashboard</a>
+
+## Process
+- Developed SQL-based loan report with Tableau visualizations. 
+- Created trend charts, regional maps, and KPI visuals.
+- Performed ETL using SQL and loaded data into MySQL. 
+- Calculated KPIs including good/bad loan percentage. 
+- Added filters and drill-downs for deeper insights.
+
+## Dashboard
 
 
 
